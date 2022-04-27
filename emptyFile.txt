@@ -1,3 +1,4 @@
 Some text.
 Some more text.
 conflicting text
+confffflict
