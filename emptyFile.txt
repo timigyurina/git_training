@@ -1,3 +1,4 @@
 Hello, this is the Charlie branch.
 Some more text.
 conflicting text
+confffflict
