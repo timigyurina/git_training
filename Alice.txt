@@ -4,3 +4,4 @@ Some more text for merging.
 More text for rebasing.
 More text for rebasing on Michael branch.
 More for pulling.
+For pulling conflict.
