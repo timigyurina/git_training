@@ -2,3 +2,4 @@ Hello, this is the Charlie branch.
 Some more text.
 conflicting text
 conflict
+Change for rewriting history.
