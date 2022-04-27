@@ -1,3 +1,4 @@
 Some text.
 Some more text.
 some more text for merging.
+conflict
