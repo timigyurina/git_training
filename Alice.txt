@@ -7,3 +7,4 @@ More for pulling.
 For pulling conflict.
 Aonther conflict.
 Pulling with conflict.
+Add line in Remote repo.
