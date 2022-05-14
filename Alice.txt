@@ -1,4 +1,4 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Hi! I'm Alice. I''ve been here for some time....
 Some new text.
 Some more text for merging.
 More text for rebasing.
