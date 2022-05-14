@@ -8,3 +8,4 @@ For pulling conflict.
 Aonther conflict.
 Pulling with conflict.
 Add line in Remote repo.
+Add some text for pull conflict.
