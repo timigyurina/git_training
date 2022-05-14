@@ -1,4 +1,4 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+I have changed this line on the merge_conflict_branch!
 Some new text.
 Some more text for merging.
 More text for rebasing.
